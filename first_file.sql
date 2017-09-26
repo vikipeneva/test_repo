@@ -1,3 +1,0 @@
-sel * from 
---first file
-:)
